@@ -2,7 +2,7 @@
 
 ## Activity 2: BASS
 - Deriving common important financial metrics from a range of instruments.
-- STI stocks Against SPY
+- stocks Against STI
 - beta, alpha, standard deviations, sharpe ratio
 
 ## Activity 3: Technical Analysis
