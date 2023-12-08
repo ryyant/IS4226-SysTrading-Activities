@@ -12,5 +12,5 @@
 ## Activity 4: Class-Based Backtester
 - Backtesting
 
-## Activity 4: Event-Based Backtester
+## Activity 5: Event-Based Backtester
 - Backtesting
