@@ -8,3 +8,9 @@
 ## Activity 3: Technical Analysis
 - Calculates and visualise commonly used technical indicators
 - VWAP, ADX, ATR, SMA, RSI
+
+## Activity 4: Class-Based Backtester
+- Backtesting
+
+## Activity 4: Event-Based Backtester
+- Backtesting
